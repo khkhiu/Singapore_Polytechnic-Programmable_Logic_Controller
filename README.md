@@ -1,6 +1,6 @@
 # Singapore_Polytechnic-Programmable_Logic_Controller
 
-This is a repository for my data analytics project done in Singapore Polytechnic.
+This is a repository for my programmable logic controller project done in Singapore Polytechnic.
 
 The full report can be found in the following link:
 
